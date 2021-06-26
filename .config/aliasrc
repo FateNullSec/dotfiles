@@ -1,0 +1,5 @@
+alias ezc='git add -A; git commit -m "Bulk Commit By Alias"; git push'
+alias v='doas vim'
+alias flameshot='flameshot gui'
+alias emerge='doas emerge'
+alias emergeupdate='emerge --ask --verbose --update --deep --changed-use @world'
